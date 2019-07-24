@@ -1,0 +1,6 @@
+## Discriminative-Kalman-Filter
+This code contains scripts (and data) necessary to reproduce the reported results for Burkhart, Brandman, Franco, Hochberg, & Harrison's "The Discriminative Kalman Filter for Nonlinear and Non-Gaussian Online Bayesian Filtering."
+
+Matlab code was run in an environment fully described using the ```ver``` command and documented in [environment_matlab.txt](./environment_matlab.txt). The LSTM results were run in a conda environment as specified in [environment.yml](./environment.yml).  
+
+*The code is provided under the GNU v3.0 public license: we encourage you to adapt this code to filter your own data!*

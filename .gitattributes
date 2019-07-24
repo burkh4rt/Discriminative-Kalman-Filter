@@ -1,0 +1,5 @@
+# default behavior, in case no core.autocrlf specified
+* text=auto
+
+# files that are truly binary and should not be modified
+*.jpg binary

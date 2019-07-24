@@ -1,0 +1,3 @@
+[submodule "gpml-matlab"]
+	path = gpml-matlab
+	url = https://gitlab.com/hnickisch/gpml-matlab.git
