@@ -1,3 +1,5 @@
+[![DOI](https://www.zenodo.org/badge/122994344.svg)](https://www.zenodo.org/badge/latestdoi/122994344)
+
 ## Discriminative-Kalman-Filter
 This code contains scripts (and data) necessary to reproduce the reported results for Burkhart, Brandman, Franco, Hochberg, & Harrison's "The Discriminative Kalman Filter for Bayesian Filtering
 with Nonlinear and Nongaussian Observation Models."
